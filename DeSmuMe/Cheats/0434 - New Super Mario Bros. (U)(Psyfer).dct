@@ -1,0 +1,8 @@
+; DeSmuME cheats file. VERSION 2.000
+Name=NEW MARIO
+Serial=NTR-A2DE-USA
+
+; cheats list
+AR 1 22085A5000000001 ;Play As Luigi
+AR 1 2208FBC400000001 ;Luigi's Voice
+

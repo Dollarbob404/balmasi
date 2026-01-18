@@ -1,6 +1,6 @@
-Reading config file C:\Users\nobno\OneDrive\Documents\Emulators\snes9x\snes9x.conf.
-Saving	config file	C:\Users\nobno\OneDrive\Documents\Emulators\snes9x\snes9x.conf
+Reading config file C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf.
+Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf
 No ROM file header found.
-Map_LoROMMap
-"SUPER MARIOWORLD" [checksum ok] LoROM, 4Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:____, CRC32:B19ED489
-Saving	config file	C:\Users\nobno\OneDrive\Documents\Emulators\snes9x\snes9x.conf
+Map_SuperFXLoROMMap
+"YOSHI'S ISLAND" [checksum ok] LoROM, 16Mbits, ROM+RAM+BAT+Super FX, NTSC, SRAM:256Kbits, ID:YI  , CRC32:D138F224
+Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf

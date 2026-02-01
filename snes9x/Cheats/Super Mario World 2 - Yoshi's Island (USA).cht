@@ -1,0 +1,184 @@
+cheat
+  name: Infinite lives
+  code: 04f6f9=ad
+
+cheat
+  name: Infinite lives and start at middle ring when you die
+  code: 04f6fa=ad
+
+cheat
+  name: All levels are completed with 100 points
+  code: 108152=a9 + 108153=e4
+
+cheat
+  name: Always score 100 points
+  code: 01bec8=a9 + 01bec9=64 + 01beca=ea
+
+cheat
+  name: Power-ups don't get used up
+  code: 01db87=60
+
+cheat
+  name: Mario's crying disabled
+  code: 06c64f=22
+
+cheat
+  name: Horizontal one-way pinball doors open from both sides
+  code: 0d9e85=80
+
+cheat
+  name: After using the magnifying glass, red coins and hidden items are always revealed
+  code: 01afba=ad
+
+cheat
+  name: Red switches stay on for over twice as long
+  code: 0eb7c4=05
+
+cheat
+  name: Red switches stay on for over four times as long
+  code: 0eb7c4=09
+
+cheat
+  name: Disable autoscroll
+  code: 03d848=ad
+
+cheat
+  name: Don't get crushed
+  code: 04ac9f=6b
+
+cheat
+  name: Multi-jump
+  code: 06d06c=8e + 06d06d=ab + 06d06e=60 + 06d063=72 + 06d064=60 + 06d065=29 + 06d066=00 + 06d067=80 + 06d068=f0 + 06d069=05 + 06d06a=a2 + 06d06b=fb
+
+cheat
+  name: Continue with 5 lives
+  code: 10e189=0a
+
+cheat
+  name: Continue with 10 lives
+  code: 10e189=19
+
+cheat
+  name: Continue with 25 lives
+  code: 10e189=32
+
+cheat
+  name: Continue with 50 lives
+  code: 10e189=63
+
+cheat
+  name: Continue with 99 lives
+  code: 10e189=63
+
+cheat
+  name: Start with 5 lives
+  code: 179933=05
+
+cheat
+  name: Start with 10 lives
+  code: 179933=0a
+
+cheat
+  name: Start with 25 lives
+  code: 179933=19
+
+cheat
+  name: Start with 50 lives
+  code: 179933=32
+
+cheat
+  name: Start with 99 lives
+  code: 179933=63
+
+cheat
+  name: Star timer doesn't decrease when hit
+  code: 7e0391=01 + 7e0392=00
+
+cheat
+  name: Hold B to float
+  code: 7e0945=00
+
+cheat
+  name: Unlock items in boss fights
+  code: 7e0b48=00
+
+cheat
+  name: Infinite red switch time
+  code: 7e0cec=66
+
+cheat
+  name: Mario's crying disabled (alt)
+  code: 06c64f=22
+
+cheat
+  name: Have Stars +10
+  code: 7e0357=01
+
+cheat
+  name: Have Stars +20
+  code: 7e0358=02
+
+cheat
+  name: Have POW Block
+  code: 7e0359=03
+
+cheat
+  name: Have full Eggs
+  code: 7e035a=04
+
+cheat
+  name: Have Magnifying Glass
+  code: 7e035b=05
+
+cheat
+  name: Have Winged Cloud
+  code: 7e035c=06
+
+cheat
+  name: Have Green Watermelon
+  code: 7e035d=07
+
+cheat
+  name: Have Blue Watermelon
+  code: 7e035e=08
+
+cheat
+  name: Have Red Watermelon
+  code: 7e035f=09
+
+cheat
+  name: Have Pink Yoshi
+  code: 7e0383=01
+
+cheat
+  name: Have Orange Yoshi
+  code: 7e0383=02
+
+cheat
+  name: Have Light Blue Yoshi
+  code: 7e0383=03
+
+cheat
+  name: Have Purple Yoshi
+  code: 7e0383=04
+
+cheat
+  name: Have Brown Yoshi
+  code: 7e0383=05
+
+cheat
+  name: Have Red Yoshi
+  code: 7e0383=06
+
+cheat
+  name: Have Dark Blue Yoshi
+  code: 7e0383=07
+
+cheat
+  name: Have Glow Red Yoshi
+  code: 7e0383=08
+
+cheat
+  name: Have Shadow Yoshi
+  code: 7e0383=09
+

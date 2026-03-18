@@ -1,0 +1,230 @@
+LastBIOSFolder = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS"
+LastROMFolder = "C:/Users/User/Documents/GitHub/balmasi/melonDS/ROMS"
+UITheme = ""
+RecentROM = [
+    "C:/Users/User/Documents/GitHub/balmasi/melonDS/ROMS/Super Mario 64 DS (Europe) (En,Fr,De,Es,It).nds",
+    "C:/Users/User/Documents/GitHub/balmasi/melonDS/ROMS/0434 - New Super Mario Bros. (U)(Psyfer).nds",
+]
+FastForwardFPS = 1000.0
+AudioSync = false
+PauseLostFocus = false
+TargetFPS = 60.0
+LimitFPS = true
+SlowmoFPS = 30.0
+
+[Audio]
+Interpolation = 0
+BitDepth = 0
+
+[DLDI]
+FolderPath = ""
+FolderSync = false
+ReadOnly = false
+ImagePath = "dldi.bin"
+ImageSize = 0
+Enable = false
+
+[DS]
+FirmwarePath = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/dsfirmware.bin"
+BIOS7Path = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/biosnds7.bin"
+BIOS9Path = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/biosnds9.bin"
+
+[Mouse]
+Hide = false
+HideSeconds = 5
+
+[DSi]
+FullBIOSBoot = false
+FirmwarePath = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/dsifirmware.bin"
+BIOS9Path = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/biosdsi9.bin"
+BIOS7Path = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/biosdsi7.bin"
+NANDPath = "C:/Users/User/Documents/GitHub/balmasi/melonDS/BIOS/dsinand.bin"
+
+[DSi.DSP]
+HLE = true
+
+[DSi.SD]
+FolderPath = ""
+FolderSync = false
+ReadOnly = false
+ImagePath = "dsisd.bin"
+ImageSize = 0
+Enable = false
+
+[DSi.Camera1]
+DeviceName = ""
+ImagePath = ""
+InputType = 0
+XFlip = false
+
+[DSi.Camera0]
+DeviceName = ""
+ImagePath = ""
+InputType = 0
+XFlip = false
+
+[3D]
+Renderer = 0
+
+[3D.Soft]
+Threaded = true
+
+[MP]
+AudioMode = 1
+RecvTimeout = 25
+
+[Savestate]
+RelocSRAM = false
+
+[LAN]
+DirectMode = false
+
+[Instance0]
+EnableCheats = false
+SaveFilePath = ""
+SavestatePath = ""
+JoystickID = 0
+CheatFilePath = ""
+
+[Instance0.RTC]
+Offset = 0
+
+[Instance0.DSi]
+[Instance0.DSi.Battery]
+Charging = true
+Level = 15
+
+[Instance0.Keyboard]
+HK_GuitarGripBlue = -1
+HK_GuitarGripYellow = -1
+HK_GuitarGripGreen = -1
+HK_SlowMoToggle = -1
+HK_Lid = -1
+Y = 65
+HK_FrameStep = -1
+HK_SolarSensorIncrease = -1
+HK_GuitarGripRed = -1
+L = 81
+R = 69
+Up = 16777235
+HK_FullscreenToggle = 150994948
+HK_SlowMo = -1
+HK_Pause = 80
+Right = 16777236
+Start = 16777220
+Select = 16777248
+X = 83
+B = 90
+Down = 16777237
+A = 88
+HK_Mic = -1
+HK_FastForward = 16777217
+HK_FrameLimitToggle = -1
+Left = 16777234
+HK_SwapScreens = 16777239
+HK_SwapScreenEmphasis = -1
+HK_Reset = 82
+HK_PowerButton = -1
+HK_VolumeDown = -1
+HK_SolarSensorDecrease = -1
+HK_VolumeUp = -1
+HK_FastForwardToggle = -1
+
+[Instance0.Window2]
+Enabled = false
+
+[Instance0.Joystick]
+HK_GuitarGripBlue = -1
+HK_GuitarGripYellow = -1
+HK_GuitarGripGreen = -1
+HK_SlowMoToggle = -1
+HK_Lid = -1
+Y = -1
+HK_FrameStep = -1
+HK_SolarSensorIncrease = -1
+HK_GuitarGripRed = -1
+L = -1
+R = -1
+Up = -1
+HK_FullscreenToggle = -1
+HK_SlowMo = -1
+HK_Pause = -1
+Right = -1
+Start = -1
+Select = -1
+X = -1
+B = -1
+Down = -1
+A = -1
+HK_Mic = -1
+HK_FastForward = -1
+HK_FrameLimitToggle = -1
+Left = -1
+HK_SwapScreens = -1
+HK_SwapScreenEmphasis = -1
+HK_Reset = -1
+HK_PowerButton = -1
+HK_VolumeDown = -1
+HK_SolarSensorDecrease = -1
+HK_VolumeUp = -1
+HK_FastForwardToggle = -1
+
+[Instance0.Window0]
+Enabled = true
+ScreenFilter = false
+ScreenAspectTop = 3
+IntegerScaling = false
+ScreenSizing = 5
+ScreenSwap = true
+ScreenGap = 0
+ScreenAspectBot = 3
+ScreenRotation = 0
+ScreenLayout = 0
+Geometry = "AdnQywADAAAAAAOvAAAB+AAABK4AAAOvAAADrwAAAhcAAASuAAADrwAAAAAAAAAACgAAAAOvAAACFwAABK4AAAOv"
+ShowOSD = true
+
+[Instance0.Audio]
+DSiVolumeSync = false
+Volume = 256
+
+[Instance0.Window3]
+Enabled = false
+
+[Instance0.Firmware]
+OverrideSettings = false
+Username = "melonDS"
+
+[Instance0.Window1]
+Enabled = false
+
+[Instance0.Gdb]
+Enabled = false
+
+[Instance0.Gdb.ARM9]
+BreakOnStartup = false
+Port = 3333
+
+[Instance0.Gdb.ARM7]
+BreakOnStartup = false
+Port = 3334
+
+[Emu]
+DirectBoot = true
+ExternalBIOSEnable = true
+ConsoleType = 1
+
+[JIT]
+MaxBlockSize = 32
+FastMemory = true
+LiteralOptimisations = true
+BranchOptimisations = true
+Enable = false
+
+[Screen]
+UseGL = false
+
+[Mic]
+WavPath = ""
+Device = ""
+InputType = 1
+

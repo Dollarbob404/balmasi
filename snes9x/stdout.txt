@@ -1,6 +1,9 @@
-Reading config file C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf.
-Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Reading config file C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf.
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
 No ROM file header found.
-Map_SuperFXLoROMMap
-"YOSHI'S ISLAND" [checksum ok] LoROM, 16Mbits, ROM+RAM+BAT+Super FX, NTSC, SRAM:256Kbits, ID:YI  , CRC32:D138F224
-Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Map_LoROMMap
+"ALL_STARS + WORLD" [checksum ok] LoROM, 32Mbits, ROM+RAM+BAT, NTSC, SRAM:64Kbits, ID:____, CRC32:F84305B1
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf

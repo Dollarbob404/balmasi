@@ -1,1 +1,0 @@
-ROM image "C:\Users\nobno\OneDrive\Documents\Emulators\snes9x\ROMs\Super Mario All-Stars + Super Mario World (U) [!].smc" was not found or could not be opened.

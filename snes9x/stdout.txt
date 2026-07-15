@@ -1,6 +1,6 @@
-Reading config file C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf.
-Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Reading config file C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf.
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
 No ROM file header found.
 Map_LoROMMap
 "ALL_STARS + WORLD" [checksum ok] LoROM, 32Mbits, ROM+RAM+BAT, NTSC, SRAM:64Kbits, ID:____, CRC32:F84305B1
-Saving	config file	C:\Users\נועםשכטר\Documents\GitHub\balmasi\snes9x\snes9x.conf
+Saving	config file	C:\Users\נועםשכטר\OneDrive - click\Documents\GitHub\balmasi\snes9x\snes9x.conf
